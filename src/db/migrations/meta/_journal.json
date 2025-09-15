@@ -15,6 +15,13 @@
       "when": 1752199497090,
       "tag": "0001_tired_vance_astro",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1757882074550,
+      "tag": "0002_sour_squadron_sinister",
+      "breakpoints": true
     }
   ]
 }
